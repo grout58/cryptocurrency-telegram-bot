@@ -1,15 +1,13 @@
 # cryptocurrency-telegram-bot
-A telegram bot that will displays various cryptocurrency prices.
+A telegram bot that will display any current cryptocurrency price.
 
 Bot was created using the telebot API located at https://github.com/eternnoir/pyTelegramBotAPI
 
 The script pulls from the cryptocompare.com api for up to date prices.
 
-Use the commands below to print out the associated cryptocurrency price:
+To get the current price of any cryptocurrency use:
 	
-	/eth - displays the price of Ether
-	/btc - displays the price of Bitcoin
-	/xmr - displays the price of Monero
-	/ltc - displays the price of Litecoin
-	/bcc - displays the price of Bitcoin Cash
+	/<crypto_abbreviation>
+	IE /btc
+	IE /eth
   
