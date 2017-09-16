@@ -1,6 +1,6 @@
 import telebot, urllib.request, json
 
-bot = telebot.TeleBot("190646199:AAF9VEdbhfy7a8zFCa7_TrPGP3gi_m0AQPk")
+bot = telebot.TeleBot("TOKEN")
 
 user = bot.get_me()
 
