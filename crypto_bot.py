@@ -11,7 +11,7 @@ def print_help(message):
 	in /<abbreviation>
 	IE /btc
 	IE /eth
-""")
+"""
 
 
 
